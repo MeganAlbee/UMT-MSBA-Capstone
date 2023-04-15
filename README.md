@@ -1,6 +1,6 @@
 <div align="center"><img src="https://davisbrothersauction.com/wp-content/uploads/2020/07/340x156Logo.png"></div>
 <h1 align="center">Creating an Auction House Database and ETL Pipelines for Data Analysis</h1>
-<p align="center"><strong>Data Engineering Project with the Univeristy of Montana. </strong>
+<p align="center"><strong>Data Engineering Capstone or the University of Montana. </strong>
 
 <h2>About</h2>
 This is a data engineering project for Davis Brothers, an auction company based in Missoula, Montana. After each auction, this company manually exports reports across five different auction platforms. This task entails clicking and exporting from the platforms software, and copying and pasting text off of a webpage. When the information is copied and pasted from a website, it is because the platform does not included that important information in their reports. 
