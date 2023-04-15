@@ -11,8 +11,8 @@ To create a script that exports and uses text mining to pull all information int
 <div align="center"><img src="img.png"></div>
 
 <h2>Features</h2>
-- Selenium Python package used to automate reporting. This drives a web broswer and uses functions based on HTML/CSS. 
-- PyAutoGUI Python package used to automate reporting for desktop application. This package is based on screen coordinates. 
+- Selenium Python package used to automate reporting. This drives a web broswer and uses functions based on HTML/CSS
+- PyAutoGUI Python package used to automate reporting for desktop application. This package is based on screen coordinates
 - Google Big Query, Python idiomatic client for Google Cloud Platform services
 
 
